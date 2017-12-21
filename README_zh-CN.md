@@ -27,7 +27,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [编辑提交(editting commits)](#%E7%BC%96%E8%BE%91%E6%8F%90%E4%BA%A4editting-commits)
+  - [编辑提交(editing commits)](#%E7%BC%96%E8%BE%91%E6%8F%90%E4%BA%A4editing-commits)
     - [我刚才提交了什么?](#%E6%88%91%E5%88%9A%E6%89%8D%E6%8F%90%E4%BA%A4%E4%BA%86%E4%BB%80%E4%B9%88)
     - [我的提交信息(commit message)写错了](#%E6%88%91%E7%9A%84%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AFcommit-message%E5%86%99%E9%94%99%E4%BA%86)
     - [我提交(commit)里的用户名和邮箱不对](#%E6%88%91%E6%8F%90%E4%BA%A4commit%E9%87%8C%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E9%82%AE%E7%AE%B1%E4%B8%8D%E5%AF%B9)
@@ -88,7 +88,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## 编辑提交(editting commits)
+## 编辑提交(editing commits)
 
 <a name="diff-last"></a>
 ### 我刚才提交了什么?
